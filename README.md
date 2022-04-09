@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**swati77/swati77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -10,7 +9,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: https://www.linkedin.com/in/swati-singh-29252a152/ 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Coding Platform Profile: 1. https://www.hackerrank.com/swatisingh141998   2. https://leetcode.com/SSingh21/
+- 
 -->
